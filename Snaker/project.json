@@ -1,0 +1,8 @@
+{
+  "engine": "cocos2d-html5",
+  "packages": "packages",
+  "version": "2.3.4",
+  "name": "Snaker",
+  "id": "f8abdd07-acd5-4cbb-acc5-55db9825a157",
+  "isNew": false
+}
